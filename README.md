@@ -1,6 +1,6 @@
 # HTRouteScanner
 
-#### HTRouteScanner is the small python tool that allows to parse all routes in hyper text interfaces for the purpose of checking it for errors
+#### HTRouteScanner is a small python tool that provides opportunity to parse all routes in hyper text interfaces for the purpose of checking it for errors
 
 
 ### HTRouteScanner uses:

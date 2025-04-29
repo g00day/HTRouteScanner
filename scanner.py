@@ -43,8 +43,6 @@ class HTRouteScanner:
     def start(self) -> tuple[list, list]:
         """ Starting the scanning  
             ---------------------  
-            takes: 
-              1. to_stringify_errors(defaultly False, returns the original requests.Response obj)  
             returns the:  
               1. page scanned  
               2. list of errors occured  

@@ -14,7 +14,7 @@ from exceptions.black_list_exceptions import EntryPointInBlackListException
 class HTRouteScanner:
     def __init__(self, entry_point: str,
                  black_list: list=[],
-                 routes_credentials: Dict[str, List] = {}, 
+                 routes_credentials: dict[str, list] = {}, 
                  ):
         """ __init__ method takes takes parameters:  
           entry_point - entry point of scanning  
